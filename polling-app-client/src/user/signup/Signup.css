@@ -1,0 +1,30 @@
+.signup-container {
+    max-width: 420px;
+    margin: 0 auto;
+    margin-top: 40px;    
+    background-color: rgb(139, 223, 195);
+    color:red;
+    padding: 7px;
+    border border-radius: 20px;
+}
+
+.signup-form-button {
+    width: 100%;
+    margin-top: 15px;
+     color:rgb(255, 217, 0);
+}
+
+.signup-form-button[disabled], .signup-form-button[disabled]:hover, .signup-form-button[disabled]:focus {
+    opacity: 0.6;
+    color: #fff;
+    background-color: red;
+    border-color: red;
+    color:rgb(255, 217, 0);
+}
+
+.signup-form input {
+    margin-bottom: 3px;
+    border-color: black;
+    background-color: rgb(99, 136, 124);
+    color:red;
+}

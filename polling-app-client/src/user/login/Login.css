@@ -1,0 +1,18 @@
+.login-container {
+    max-width: 420px;
+    margin: 0 auto;
+    margin: 0 auto;
+    margin-top: 40px;
+    background-color: rgb(139, 223, 195);
+}
+
+.login-form-button {
+    width: 100%;
+}
+
+.login-form input {
+    margin-bottom: 3px;
+    border-color: black;
+    background-color: rgb(99, 136, 124);
+    color:red;
+}
